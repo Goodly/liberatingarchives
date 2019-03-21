@@ -1,4 +1,4 @@
-# liberating-archives
+# liberatingarchives
 
 Click the badge to start the Jupyter environment and explore our tutorial.
 
