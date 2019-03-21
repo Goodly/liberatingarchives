@@ -3,4 +3,3 @@ pandas
 selenium
 
 datascience
-sqlite3
