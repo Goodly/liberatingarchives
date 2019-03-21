@@ -1,0 +1,2 @@
+hearing_id,committee_id,subcommittee_id,hearing_title,is_appropriation,is_nomination,date,url,file,extent
+1,1,1,Example hearing,1,0,2018/01/01,someurl.gov,,
